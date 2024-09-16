@@ -1,0 +1,17 @@
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\HttpServer-Trabajo4.exe
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\HttpServer-Trabajo4.deps.json
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\HttpServer-Trabajo4.runtimeconfig.json
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\HttpServer-Trabajo4.dll
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\HttpServer-Trabajo4.pdb
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.csproj.AssemblyReference.cache
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.AssemblyInfoInputs.cache
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.AssemblyInfo.cs
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.csproj.CoreCompileInputs.cache
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.csproj.CopyComplete
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.dll
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\refint\HttpServer-Trabajo4.dll
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.pdb
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\HttpServer-Trabajo4.genruntimeconfig.cache
+D:\Universidad\8. OCTAVO SEMESTRE\Sistemas\HttpServer-Trabajo4\obj\Debug\net8.0\ref\HttpServer-Trabajo4.dll
